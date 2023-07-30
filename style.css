@@ -581,7 +581,8 @@ section .skills{
 
 .project_links img {
     margin-top: 2%;
-    width: 6%;
+    width: 25%;
+    max-height: 78px;
 }
 
 details summary::-webkit-details-marker {
